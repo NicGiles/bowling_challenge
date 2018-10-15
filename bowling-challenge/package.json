@@ -1,0 +1,33 @@
+{
+  "name": "bowling-challenge",
+  "version": "1.0.0",
+  "description": "Bowling Challenge =================",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicGiles/bowling-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicGiles/bowling-challenge/issues"
+  },
+  "homepage": "https://github.com/NicGiles/bowling-challenge#readme",
+  "devDependencies": {
+    "jasmine-core": "^3.2.1",
+    "jasmine-jquery": "^2.1.1",
+    "karma": "^3.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2",
+    "karma-jasmine-jquery": "^0.1.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
